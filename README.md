@@ -1,4 +1,4 @@
-# GCP Professional Data Engineer certificate
+# GCP Professional Data Engineer Certificate
 
 Material to study for the GCP professional cloud engineer certificate
 
